@@ -1,0 +1,11 @@
+﻿  rvi.cpp
+F:\느티프로젝트\지표\RelativeVolatilityIndex\RelativeVolatilityIndex\rvi.cpp(6,31): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+rvi.obj : error LNK2019: "public: __cdecl Json::Value::Value(enum Json::ValueType)" (??0Value@Json@@QEAA@W4ValueType@1@@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+rvi.obj : error LNK2019: "public: __cdecl Json::Value::~Value(void)" (??1Value@Json@@QEAA@XZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+rvi.obj : error LNK2019: "public: double __cdecl Json::Value::asDouble(void)const " (?asDouble@Value@Json@@QEBANXZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+rvi.obj : error LNK2019: "public: unsigned int __cdecl Json::Value::size(void)const " (?size@Value@Json@@QEBAIXZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+rvi.obj : error LNK2019: "public: class Json::Value & __cdecl Json::Value::operator[](int)" (??AValue@Json@@QEAAAEAV01@H@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+rvi.obj : error LNK2019: "public: class Json::Value & __cdecl Json::Value::operator[](char const *)" (??AValue@Json@@QEAAAEAV01@PEBD@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+rvi.obj : error LNK2019: "public: __cdecl Json::Reader::Reader(void)" (??0Reader@Json@@QEAA@XZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+rvi.obj : error LNK2019: "public: bool __cdecl Json::Reader::parse(class std::basic_istream<char,struct std::char_traits<char> > &,class Json::Value &,bool)" (?parse@Reader@Json@@QEAA_NAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@AEAVValue@2@_N@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+F:\느티프로젝트\지표\RelativeVolatilityIndex\x64\Debug\RelativeVolatilityIndex.exe : fatal error LNK1120: 8개의 확인할 수 없는 외부 참조입니다.

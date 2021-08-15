@@ -1,0 +1,7 @@
+﻿  rvi.cpp
+F:\느티프로젝트\지표\RelativeVolatilityIndex\RelativeVolatilityIndex\rvi.cpp(7,31): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+F:\느티프로젝트\지표\RelativeVolatilityIndex\RelativeVolatilityIndex\rvi.cpp(66,13): warning C4101: 'stdSam' :참조되지 않은 지역 변수입니다.
+F:\느티프로젝트\지표\RelativeVolatilityIndex\RelativeVolatilityIndex\rvi.cpp(135,13): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+F:\느티프로젝트\지표\RelativeVolatilityIndex\RelativeVolatilityIndex\rvi.cpp(134,13): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+F:\느티프로젝트\지표\RelativeVolatilityIndex\RelativeVolatilityIndex\rvi.cpp(136,13): warning C4101: 'l' :참조되지 않은 지역 변수입니다.
+  RelativeVolatilityIndex.vcxproj -> F:\느티프로젝트\지표\RelativeVolatilityIndex\Debug\RelativeVolatilityIndex.exe
